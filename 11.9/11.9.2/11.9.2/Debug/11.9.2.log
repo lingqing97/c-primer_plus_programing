@@ -1,0 +1,5 @@
+﻿  Test_time.cpp
+  time.cpp
+d:\360downloads\github客户端code\c-primer_plus_programing\11.9\11.9.2\11.9.2\time.cpp(41): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  11.9.2.vcxproj -> D:\360Downloads\GitHub客户端code\c-primer_plus_programing\11.9\11.9.2\Debug\11.9.2.exe

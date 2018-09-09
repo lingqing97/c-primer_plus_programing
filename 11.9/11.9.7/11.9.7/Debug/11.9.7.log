@@ -1,0 +1,10 @@
+﻿  complex.cpp
+d:\360downloads\github客户端code\c-primer_plus_programing\11.9\11.9.7\11.9.7\complex.cpp(25): error C2556: “std::istream &operator >>(std::istream &,complex &)”: 重载函数与“std::istream operator >>(std::istream &,complex &)”只是在返回类型上不同
+  d:\360downloads\github客户端code\c-primer_plus_programing\11.9\11.9.7\11.9.7\complex0.h(20): note: 参见“operator >>”的声明
+d:\360downloads\github客户端code\c-primer_plus_programing\11.9\11.9.7\11.9.7\complex.cpp(25): error C2040: “operator >>”:“std::istream &(std::istream &,complex &)”与“std::istream (std::istream &,complex &)”的间接寻址级别不同
+d:\360downloads\github客户端code\c-primer_plus_programing\11.9\11.9.7\11.9.7\complex.cpp(37): error C2556: “std::ostream &operator <<(std::ostream &,const complex &)”: 重载函数与“std::ostream operator <<(std::ostream &,const complex &)”只是在返回类型上不同
+  d:\360downloads\github客户端code\c-primer_plus_programing\11.9\11.9.7\11.9.7\complex0.h(21): note: 参见“operator <<”的声明
+d:\360downloads\github客户端code\c-primer_plus_programing\11.9\11.9.7\11.9.7\complex.cpp(37): error C2040: “operator <<”:“std::ostream &(std::ostream &,const complex &)”与“std::ostream (std::ostream &,const complex &)”的间接寻址级别不同
+  test_complex.cpp
+d:\360downloads\github客户端code\c-primer_plus_programing\11.9\11.9.7\11.9.7\test_complex.cpp(6): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
