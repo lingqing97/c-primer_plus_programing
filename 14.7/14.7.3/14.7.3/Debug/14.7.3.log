@@ -1,0 +1,5 @@
+﻿  BadDude.cpp
+d:\360downloads\github客户端code\c-primer_plus_programing\14.7\14.7.3\14.7.3\baddude.cpp(19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Test_BadDude.cpp
+  正在生成代码...
+  14.7.3.vcxproj -> D:\360Downloads\GitHub客户端code\c-primer_plus_programing\14.7\14.7.3\Debug\14.7.3.exe
